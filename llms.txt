@@ -1,0 +1,44 @@
+# Geotecnia1 — Chiguayante
+
+> Geotechnical engineering services in Chiguayante, Chile.
+
+## Services
+- [Anclajes](https://chiguayante.geotecnia1.vip/anclajes/)
+- [Cbr Vial](https://chiguayante.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://chiguayante.geotecnia1.vip/cimentaciones/)
+- [Columnas Grava](https://chiguayante.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://chiguayante.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Triaxial](https://chiguayante.geotecnia1.vip/ensayo-triaxial/)
+- [Estabilidad Taludes](https://chiguayante.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chiguayante.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chiguayante.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://chiguayante.geotecnia1.vip/exploracion/)
+- [Geofisica](https://chiguayante.geotecnia1.vip/geofisica/)
+- [Geotecnia Vial](https://chiguayante.geotecnia1.vip/geotecnia-vial/)
+- [Granulometria](https://chiguayante.geotecnia1.vip/granulometria/)
+- [Grouting](https://chiguayante.geotecnia1.vip/grouting/)
+- [Laboratorio In Situ](https://chiguayante.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chiguayante.geotecnia1.vip/laboratorio-lab/)
+- [Licuefaccion](https://chiguayante.geotecnia1.vip/licuefaccion/)
+- [Limites Atterberg](https://chiguayante.geotecnia1.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://chiguayante.geotecnia1.vip/losa-de-cimentacion/)
+- [Mejoramiento](https://chiguayante.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://chiguayante.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chiguayante.geotecnia1.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://chiguayante.geotecnia1.vip/muros-contencion/)
+- [Pavimento Rigido](https://chiguayante.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://chiguayante.geotecnia1.vip/permeabilidad-campo/)
+- [Pilotes](https://chiguayante.geotecnia1.vip/pilotes/)
+- [Resistividad Electrica Sev](https://chiguayante.geotecnia1.vip/resistividad-electrica-sev/)
+- [Sismica](https://chiguayante.geotecnia1.vip/sismica/)
+- [Sondaje Spt](https://chiguayante.geotecnia1.vip/sondaje-spt/)
+- [Taludes](https://chiguayante.geotecnia1.vip/taludes/)
+- [Tomografia Sismica](https://chiguayante.geotecnia1.vip/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://chiguayante.geotecnia1.vip/tuneles-suelo-blando/)
+
+## Contact
+- Website: https://chiguayante.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Chiguayante, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
